@@ -1,0 +1,20 @@
+{
+  "name": "http-server-event-request",
+  "version": "0.0.0",
+  "description": "an http.Server event handler for the request event",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "http.Server event",
+    "http.Server event request"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/http-server-events/request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/http-server-events/request/issues"
+  },
+  "homepage": "https://github.com/http-server-events/request#readme"
+}
